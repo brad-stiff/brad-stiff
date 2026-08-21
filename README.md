@@ -52,7 +52,6 @@ UI/UX that’s both fun and intuitive.
 
 ![Cloudways](https://img.shields.io/badge/Cloudways-2C39BD?style=for-the-badge&logo=cloudways&logoColor=white)
 ![Pantheon](https://img.shields.io/badge/Pantheon-EFD01B?style=for-the-badge&logo=pantheon&logoColor=black)
-![SiteGround](https://img.shields.io/badge/SiteGround-7AC143?style=for-the-badge&logo=siteground&logoColor=white)
 
 
 <!--
