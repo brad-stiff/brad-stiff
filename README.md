@@ -43,6 +43,17 @@ UI/UX that’s both fun and intuitive.
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-F4F2ED?style=for-the-badge&logo=bruno&logoColor=black)
 
+### Platforms & CMS
+
+![WordPress](https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+
+### Hosting
+
+![Cloudways](https://img.shields.io/badge/Cloudways-2C39BD?style=for-the-badge&logo=cloudways&logoColor=white)
+![Pantheon](https://img.shields.io/badge/Pantheon-EFD01B?style=for-the-badge&logo=pantheon&logoColor=black)
+![SiteGround](https://img.shields.io/badge/SiteGround-7AC143?style=for-the-badge&logo=siteground&logoColor=white)
+
 
 <!--
 **brad-stiff/brad-stiff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
